@@ -1,0 +1,2 @@
+# PROGRAM-TO-INTERFACE-PORT1-WITH-PORT2
+OUTPUT – All BITS in PORT-2 turns HIGH if BIT in 1st-PIN of PORT-1 is HIGH(1st PIN of PORT1 act as a Switch for PORT2)
